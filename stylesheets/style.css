@@ -103,51 +103,69 @@ h1 {
   color: #0FC;
   letter-spacing: 6px;
   text-transform: uppercase;
-  line-height: 1.15; }
+  line-height: 0.7; }
   @media only screen and (max-width: 760px) {
     /* line 12, ../scss/_typography.scss */
     h1 {
       font-size: 5em; } }
+  @media only screen and (max-width: 560px) {
+    /* line 12, ../scss/_typography.scss */
+    h1 {
+      font-size: 4em; } }
+  @media only screen and (max-width: 420px) {
+    /* line 12, ../scss/_typography.scss */
+    h1 {
+      font-size: 3.5em; } }
 
-/* line 25, ../scss/_typography.scss */
+/* line 31, ../scss/_typography.scss */
+h1 span {
+  line-height: 1.2; }
+
+/* line 35, ../scss/_typography.scss */
 h2 {
+  margin-top: 16px;
   font-size: 1.25em;
   line-height: 2.4;
   color: #666; }
   @media only screen and (max-width: 760px) {
-    /* line 25, ../scss/_typography.scss */
+    /* line 35, ../scss/_typography.scss */
     h2 {
       font-size: 1.1em; } }
 
-/* line 34, ../scss/_typography.scss */
+/* line 45, ../scss/_typography.scss */
 h3 {
   font-weight: bold;
   color: #333;
   font-size: 1.2em;
   margin-bottom: 16px; }
 
-/* line 41, ../scss/_typography.scss */
+/* line 52, ../scss/_typography.scss */
 h4 {
   font-weight: bold;
   color: #555;
   font-size: 0.94em;
   margin-bottom: 8px; }
 
-/* line 48, ../scss/_typography.scss */
+/* line 59, ../scss/_typography.scss */
+h4 span {
+  font-weight: normal;
+  font-style: italic; }
+
+/* line 64, ../scss/_typography.scss */
 p, li {
   color: #555;
   font-size: 0.8em;
   line-height: 2.2; }
 
-/* line 54, ../scss/_typography.scss */
+/* line 70, ../scss/_typography.scss */
 p span {
   font-weight: bold; }
 
-/* line 58, ../scss/_typography.scss */
+/* line 74, ../scss/_typography.scss */
 p a {
   color: #555; }
 
-/* line 62, ../scss/_typography.scss */
+/* line 78, ../scss/_typography.scss */
 p a:hover {
   color: #0FC;
   -webkit-transition: 0.4s;
@@ -241,12 +259,12 @@ section:last-child {
   padding: 16px 0px;
   width: 100%; }
 /* line 109, ../scss/style.scss */
-.experiece li {
+.experiece .work li {
   margin-bottom: 16px;
   width: 100%;
   height: 100px; }
   /* line 113, ../scss/style.scss */
-  .experiece li .icon {
+  .experiece .work li .icon {
     float: left;
     margin-right: 16px;
     width: 100px;
@@ -262,39 +280,74 @@ section:last-child {
     -o-transition: 0.8s;
     transition: 0.8s; }
   /* line 129, ../scss/style.scss */
-  .experiece li .icon:hover {
+  .experiece .work li .icon:hover {
     background-color: #0FC;
     -webkit-transition: 0.8s;
     -moz-transition: 0.8s;
     -o-transition: 0.8s;
     transition: 0.8s; }
   /* line 136, ../scss/style.scss */
-  .experiece li .text {
+  .experiece .work li .text {
     float: left;
     margin-top: 10px;
     max-width: 400px;
     height: 90px; }
     @media only screen and (max-width: 760px) {
       /* line 136, ../scss/style.scss */
-      .experiece li .text {
+      .experiece .work li .text {
         margin-top: 0;
         max-width: 260px;
         height: 100px; } }
-
+  /* line 147, ../scss/style.scss */
+  .experiece .work li p {
+    font-size: 0.85em; }
 /* line 152, ../scss/style.scss */
+.experiece .exp-list {
+  margin-left: 20px; }
+/* line 156, ../scss/style.scss */
+.experiece .exp-list li {
+  list-style: disc;
+  margin-bottom: 8px;
+  max-width: 40%; }
+  @media only screen and (max-width: 760px) {
+    /* line 156, ../scss/style.scss */
+    .experiece .exp-list li {
+      max-width: 80%; } }
+  /* line 163, ../scss/style.scss */
+  .experiece .exp-list li p {
+    font-size: 1em; }
+
+/* line 171, ../scss/style.scss */
 .pnb-icon {
   background-image: url("../img/pearls-and-bones.png"); }
 
-/* line 156, ../scss/style.scss */
+/* line 175, ../scss/style.scss */
 .pnb-icon:hover {
   background-image: url("../img/pearls-and-bones-hover.png"); }
 
-/* line 162, ../scss/style.scss */
+/* line 179, ../scss/style.scss */
+.ysdn-icon {
+  background-image: url("../img/ysdn-redesign.png"); }
+
+/* line 183, ../scss/style.scss */
+.ysdn-icon:hover {
+  background-image: url("../img/ysdn-redesign-hover.png"); }
+
+/* line 187, ../scss/style.scss */
+.student-icon {
+  background-image: url("../img/student-work.png"); }
+
+/* line 191, ../scss/style.scss */
+.student-icon:hover {
+  background-image: url("../img/student-work-hover.png"); }
+
+/* line 197, ../scss/style.scss */
 .lines {
   -webkit-background-size: 40px;
   -moz-background-size: 40px;
   background-size: 40px;
   background-image: url("../img/style-lines.svg"); }
 
-/* .section {
-	display: none; */
+/* line 204, ../scss/style.scss */
+.section {
+  display: none; }

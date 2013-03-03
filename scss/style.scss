@@ -106,7 +106,7 @@ section:last-child {
 			width: 100%;
 		}
 
-		li {
+		.work li {
 			margin-bottom: 16px;
 			width: 100%;
 			height: 100px;
@@ -144,6 +144,25 @@ section:last-child {
 					height: 100px;
 				}
 			}
+			p {
+				font-size: 0.85em;
+			}
+		}
+
+		.exp-list {
+			margin-left: 20px;
+		}
+
+		.exp-list li {
+			list-style: disc;
+			margin-bottom: 8px;
+			max-width: 40%;
+			@media only screen and (max-width : 760px) {
+				max-width: 80%;
+			}
+			p {
+				font-size: 1em;
+			}
 		}
 	}
 
@@ -156,6 +175,22 @@ section:last-child {
 		.pnb-icon:hover {
 			background-image: url('../img/pearls-and-bones-hover.png');
 		}
+
+		.ysdn-icon {
+			background-image: url('../img/ysdn-redesign.png');
+		}
+
+		.ysdn-icon:hover {
+			background-image: url('../img/ysdn-redesign-hover.png');
+		}
+
+		.student-icon {
+			background-image: url('../img/student-work.png');
+		}
+
+		.student-icon:hover {
+			background-image: url('../img/student-work-hover.png');
+		}
 	
 // Style Elements
 
@@ -166,5 +201,6 @@ section:last-child {
 	background-image: url("../img/style-lines.svg")
 }
 
-/* .section {
-	display: none; */
+.section {
+	display: none;
+}
