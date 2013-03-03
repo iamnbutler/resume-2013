@@ -1,0 +1,558 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"video",
+				"video	<video>"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 888,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/SASS Build/SASS.sublime-build",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"conver ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"pat",
+				"File: Copy Path"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"synsass",
+				"Set Syntax: SASS"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"copy",
+				"File: Copy Path From Project"
+			],
+			[
+				"gsit",
+				"Gist: Insert Gist"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"brow",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"fetc",
+				"Fetch: File"
+			],
+			[
+				"ad",
+				"Project: Add Folder"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"live",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"syn ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"gistbrw",
+				"Gist: Open Gist in Browser"
+			],
+			[
+				"gisbrow",
+				"Gist: Open Gist in Browser"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sy",
+				"Set Syntax: CSS"
+			],
+			[
+				"to",
+				"Toggle Comment"
+			],
+			[
+				"pckcntins",
+				"Package Control: Install Package"
+			],
+			[
+				"syn php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sy css",
+				"Set Syntax: CSS"
+			],
+			[
+				"togg",
+				"View: Toggle Minimap"
+			],
+			[
+				"tog",
+				"Toggle Comment"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/web/xampp-portable/htdocs/YSDN-Interactivity-Workshop/week_2/week_2_resources/css/style.css",
+		"/C/web/xampp-portable/htdocs/YSDN-Interactivity-Workshop/week_2/week_2_resources/index.html",
+		"/C/web/xampp-portable/htdocs/iamnbutler-ee/css/scss/_navigation.scss",
+		"/C/web/iamnbutler/stylesheets/style.css",
+		"/C/web/iamnbutler/js/scripts.js",
+		"/C/web/xampp-portable/htdocs/iamnbutler-ee/templates/default_site/partials.group/html-header.html",
+		"/C/web/iamnbutler-rails/app/assets/javascripts/application.js",
+		"/C/web/iamnbutler-rails/app/assets/javascripts/scripts.js",
+		"/C/web/xampp-portable/htdocs/iamnbutler-ee/css/scss/_reset.scss",
+		"/C/web/xampp-portable/apache/conf/extra/httpd-vhosts.conf",
+		"/C/web/xampp-portable/htdocs/ysdn/assets/admin.php",
+		"/C/web/xampp-portable/htdocs/ysdn/assets/index.php",
+		"/C/web/xampp-portable/htdocs/ysdn/.htaccess",
+		"/C/web/kaishi/scss/style.scss",
+		"/C/web/kaishi/css/style.css",
+		"/C/web/kaishi/css/scss/style.scss",
+		"/C/web/ysdn-gallery/css/style.css",
+		"/C/web/blog-rails/Gemfile",
+		"/D/Applications/sublime-text/Data/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/D/Applications/sublime-text/Data/Packages/SASS Build/SASS.sublime-build",
+		"/C/web/xampp-portable/htdocs/ysdn/css/scss/_typography.scss",
+		"/C/web/xampp-portable/htdocs/ysdn/css/scss/_grid.scss",
+		"/C/web/xampp-portable/htdocs/ysdn/css/scss/style.scss",
+		"/D/Applications/sublime-text/WeeklyTasks.TODO",
+		"/C/Users/Nathan Butler/SkyDrive/Desktop/index.php",
+		"/C/Users/Nathan Butler/SkyDrive/Desktop/test.html",
+		"/C/php/php.ini",
+		"/D/Applications/sublime-text/Data/Packages/CSScomb/Default (Windows).sublime-keymap",
+		"/C/web/xampp-portable/htdocs/ysdn/templates/default_site/templates.group/bdes.html",
+		"/C/web/xampp-portable/htdocs/ysdn/templates/default_site/embeds.group/sidebar-news.html",
+		"/C/web/xampp-portable/htdocs/ysdn/templates/default_site/templates.group/mdes.html",
+		"/C/web/xampp-portable/htdocs/ysdn/templates/embeds.group/sidebar-news.html",
+		"/C/web/type_2_project_3/css/style.css",
+		"/C/web/type_2_project_3/index.html",
+		"/C/web/type_2_project_3/js/scripts.js",
+		"/C/web/type_2_project_3/css/scss/style.scss",
+		"/C/web/type_2_project_3/js/localScroll.js",
+		"/C/web/type_2_project_3/js/scrollTo.js",
+		"/D/Applications/sublime-text/Data/Packages/User/Fetch.sublime-settings",
+		"/C/web/type_2_project_3/css/scss/style.css",
+		"/C/web/type_2_project_3/img/portrait.jpg",
+		"/C/web/type_2_project_3/css/scss/_reset.scss",
+		"/C/web/type_2_project_3/new/new.html",
+		"/C/web/type_2_project_3/new.html",
+		"/C/web/storytime/index.html",
+		"/D/Applications/sublime-text/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Applications/sublime-text/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Applications/sublime-text/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Applications/sublime-text/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/web/xampp-portable/htdocs/ysdn/css/style.css",
+		"/C/web/xampp-portable/htdocs/kaishi/css/scss/_reset.scss",
+		"/C/web/xampp-portable/htdocs/kaishi/css/scss/style.scss",
+		"/C/web/xampp-portable/htdocs/kaishi/index.html",
+		"/C/web/xampp-portable/htdocs/kaishi/js/scripts.js",
+		"/D/Applications/sublime-text/Data/Packages/User/Gist.sublime-settings",
+		"/D/Applications/sublime-text/Data/Packages/Gist/Gist.sublime-settings",
+		"/C/web/storytime/css/scss/style.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"64px",
+			"64",
+			"192",
+			"96",
+			"32",
+			"46",
+			"-64",
+			"192px 64px",
+			"64px",
+			"192px",
+			"#d06200",
+			"'\n",
+			"ner",
+			"/*\n",
+			"span4",
+			"%;\n",
+			"696F62",
+			".",
+			"portrait",
+			"jpg",
+			"li",
+			"join",
+			"border",
+			"hello",
+			"background",
+			"visited",
+			"focus",
+			"visited",
+			"a"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 888,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								498,
+								498
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 171.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.487669822165,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 29.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"side",
+				"templates/default_site/embeds.group/sidebar-news.html"
+			],
+			[
+				"mdes",
+				"templates/default_site/templates.group/mdes.html"
+			],
+			[
+				"bdes",
+				"templates/default_site/templates.group/bdes.html"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"reset",
+				"css/scss/_reset.scss"
+			],
+			[
+				"st",
+				"css/scss/style.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true
+}

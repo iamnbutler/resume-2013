@@ -1,0 +1,68 @@
+// Typography
+
+html {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	display: inline;
+	font-size: 8em;
+	font-weight: bold;
+	color: #0FC;
+	letter-spacing: 6px;
+	text-transform: uppercase;
+	line-height: 1.15;
+	@media only screen and (max-width : 760px) {
+		font-size: 5em;
+	}
+}
+
+h2 {
+	font-size: 1.25em;
+	line-height: 2.4;
+	color: #666;
+	@media only screen and (max-width : 760px) {
+		font-size: 1.1em;
+	}
+}
+
+h3 {
+	font-weight: bold;
+	color: #333;
+	font-size: 1.2em;
+	margin-bottom: 16px;
+}
+
+h4 {
+	font-weight: bold;
+	color: #555;
+	font-size: 0.94em;
+	margin-bottom: 8px;
+}
+
+p, li {
+	color: #555;
+	font-size: 0.8em;
+	line-height: 2.2;
+}
+
+p span {
+	font-weight: bold;
+}
+
+p a {
+	color: #555;
+}
+
+p a:hover {
+	color: #0FC;
+	-webkit-transition: 0.4s;
+	-moz-transition: 0.4s;
+	-o-transition: 0.4s;
+	transition: 0.4s;
+}
